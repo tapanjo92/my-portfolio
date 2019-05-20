@@ -7,13 +7,12 @@ phases:
       - npm test
   build:
     commands:
-      - npm install
       - npm run webpack
 artifacts:
   files:
     - index.html
     - favicon.ico
     - TapanJoshi-Resume.pdf
-    - styles/*
+    - styles/main.css
     - images/*
     - dist/bundle.js
