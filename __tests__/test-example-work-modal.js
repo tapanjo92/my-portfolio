@@ -38,7 +38,7 @@ describe("ExampleWorkModal component", () => {
     expect(anchors.prop('href')).toEqual(myExample.href);
   });
   it("Should have modal class set correctly", () => {
-    expect(component.find(".background--skyBlue").hasClass("modal--closed")).toBe(true);
-    expect(openComponent.find(".background--skyBlue").hasClass("modal--open")).toBe(true);
+    expect(component.find(".background--Brightblue").hasClass("modal--closed")).toBe(true);
+    expect(openComponent.find(".background--Brightblue").hasClass("modal--open")).toBe(true);
   })
 });
