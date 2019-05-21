@@ -5,7 +5,7 @@ import ExampleWork from './example-work';
 const myWork = [
   {
     'title': "Sync your Dropbox files to AWS S3",
-    'href': "https://example.com",
+    'href': "Sync-DBfiles-t-S3.pdf",
     'desc': "Dropbox files to S3 for free.",
     'image': {
       'desc': "Sync Dropbox to AWS S3",
