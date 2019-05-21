@@ -8,7 +8,7 @@ const myWork = [
     'href': "Sync-DBfiles-to-s3.pdf",
     'desc': "Dropbox files to S3 for free.",
     'image': {
-      'desc': "Sync Dropbox to AWS S3",
+      'desc': "Sync your Dropbox to AWS S3",
       'src': "images/example2.png",
       'comment': ""
     }
