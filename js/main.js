@@ -14,7 +14,7 @@ const myWork = [
     }
   },
   {
-    'title': "Create Dynamic website using AWS",
+    'title': "Create Dynamic Modern Web Application using AWS",
     'href': "http://jostapan-mysfits.s3-website-us-east-1.amazonaws.com/",
     'desc': "By using different AWS components such as AWS Lambda, Faragate, ECS, DynamoDB, Cognito etc. I created a dynamic website where user can register, login and view the webite and filter it.",
     'image': {
