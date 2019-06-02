@@ -25,8 +25,8 @@ const myWork = [
   },
   {
     'title': "Make Portfolio using AWS services",
-    'href': "portfolio.tapanjo.info",
-    'desc': "This portfolio is compeletly serverless. Here we made use of Codebuild & CodePipeline which will get triggered when new code in pushed via github. After the portfolio is deployed successfully, I will get an email where it will confirm wheather portfolio deployment has filed or succeeed",
+    'href': "https://portfolio.tapanjo.info",
+    'desc': "This portfolio is compeletly serverless. Here we made use of Codebuild & CodePipeline which will get triggered when new code in pushed via github. After the portfolio is deployed successfully, I will get an email where it will confirm wheather portfolio deployment has filed or succeeed.",
     'image': {
       'desc': "example screenshot of a project involving code",
       'src': "images/example1.png",
