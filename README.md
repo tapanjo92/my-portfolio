@@ -1,5 +1,5 @@
 # Tapan Joshi's portfolio
-This is my professional portfolio, it uses AWS andReactJS
+This is my professional portfolio, it uses AWS and ReactJS
 
 # Tech used
  Brew
