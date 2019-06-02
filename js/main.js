@@ -14,7 +14,7 @@ const myWork = [
     }
   },
   {
-    'title': "Create Dymnamic website using AWS",
+    'title': "Create Dynamic website using AWS",
     'href': "http://jostapan-mysfits.s3-website-us-east-1.amazonaws.com/",
     'desc': "By using different AWS components such as AWS Lambda, Faragate, ECS, DynamoDB, Cognito etc. I created a dynamic website where user can register, login and view the webite and filter it.",
     'image': {
@@ -24,9 +24,9 @@ const myWork = [
     }
   },
   {
-    'title': "Work Example",
-    'href': "https://example.com",
-    'desc': "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    'title': "Make Portfolio using AWS services",
+    'href': "portfolio.tapanjo.info",
+    'desc': "This portfolio is compeletly serverless. Here we made use of Codebuild & CodePipeline which will get triggered when new code in pushed via github. After the portfolio is deployed successfully, I will get an email where it will confirm wheather portfolio deployment has filed or succeeed",
     'image': {
       'desc': "example screenshot of a project involving code",
       'src': "images/example1.png",
