@@ -8,3 +8,9 @@ This is my professional portfolio, it uses AWS and ReactJS
  Google font
  CSS
  HTML
+ Lambda
+ CodeBuild
+ CodePipeline
+ Cloudfront
+ S3
+ 
